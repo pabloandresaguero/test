@@ -1,7 +1,4 @@
 hola paparulo
-<<<<<<< HEAD
-sarasassss
-=======
 sdef
 1
 2
@@ -13,4 +10,3 @@ sdef
 8
 9
 10
->>>>>>> cabecera
